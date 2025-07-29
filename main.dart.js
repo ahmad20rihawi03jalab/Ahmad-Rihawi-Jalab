@@ -38142,7 +38142,7 @@ else if(p<1200&&p>=1000)s=8
 else if(p<1000&&p>=800)s=7
 else s=p<800&&p>=600?6:4
 r=t.D
-return A.cQ(q,A.mu(A.b([A.nX(A.iV(A.b([A.cQ(q,new A.re(A.aEm(q,q,new A.jO("assets/logo2.jpg",q,q)),q),B.r,q,q,q,q,q,new A.av(0,29,0,25),q,q,q,q),A.mu(A.b([A.cQ(q,new A.qs("Home",new A.ad2(a),q),B.r,q,q,q,q,q,new A.av(2,0,2,0),q,q,q,q),A.cQ(q,new A.qs("About Me",new A.ad3(a),q),B.r,q,q,q,q,q,new A.av(0,0,2,0),q,q,q,q),A.cQ(q,new A.qs("Contact",new A.ad4(a),q),B.r,q,q,q,q,q,new A.av(0,0,2,0),q,q,q,q)],r),B.a3,B.ah,B.ap)],r),B.a3,B.ah,B.ap),s),A.nX(A.cQ(B.hQ,new A.re(new A.jO("assets/logo.jpg",q,q),q),B.r,q,q,q,q,q,q,q,q,q,q),1)],r),B.a3,B.ah,B.ap),B.r,o,q,q,q,q,q,q,q,q,q)}}
+return A.cQ(q,A.mu(A.b([A.nX(A.iV(A.b([A.cQ(q,new A.re(A.aEm(q,q,new A.jO("assets/logo2.jpg",q,q)),q),B.r,q,q,q,q,q,new A.av(0,29,0,25),q,q,q,q),A.mu(A.b([A.cQ(q,new A.qs("Home",new A.ad2(a),q),B.r,q,q,q,q,q,new A.av(2,0,2,0),q,q,q,q),A.cQ(q,new A.qs("About Me",new A.ad3(a),q),B.r,q,q,q,q,q,new A.av(0,0,2,0),q,q,q,q),A.cQ(q,new A.qs("Contact",new A.ad4(a),q),B.r,q,q,q,q,q,new A.av(0,0,2,0),q,q,q,q)],r),B.a3,B.ah,B.ap)],r),B.a3,B.ah,B.ap),s),A.nX(A.cQ(B.hQ,new A.re(new A.jO("assets/logo.png",q,q),q),B.r,q,q,q,q,q,q,q,q,q,q),1)],r),B.a3,B.ah,B.ap),B.r,o,q,q,q,q,q,q,q,q,q)}}
 A.ad2.prototype={
 $0(){A.xp(this.a).nj(0,"/",null)},
 $S:0}
